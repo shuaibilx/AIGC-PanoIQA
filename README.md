@@ -24,6 +24,9 @@ This repository contains the official implementation of the **AIGC-PanoIQA** fra
 ### 🌟 Key Features
 - **Large-Scale Benchmark**: The first comprehensive dataset comprising **1,440 AIGC panorama pairs** generated via Stable Diffusion, alongside tens of thousands of extracted viewports.
 - **Immersive VR MOS Collection**: Subjective Mean Opinion Scores (MOS) were rigorously collected using a custom-developed VR IQA application built on **Unity**, ensuring genuine immersive evaluation.
+<p align="center">
+<img width="300" height="300" alt="微信图片_20260329112648_39_89" src="https://github.com/user-attachments/assets/edba4ea0-e3d4-47d7-9976-bc96b86cd3d6" />
+
 - **State-of-the-Art Performance**: Achieves leading PLCC/SROCC metrics across multiple scenarios.
 
 ---
