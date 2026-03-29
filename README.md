@@ -15,7 +15,7 @@
 ---
 
 ## 📢 News
-- **[2026.03]** Partial release of the AIGC-PanoIQA dataset; the full dataset will be made publicly available following the publication of the paper!
+- **[2026.03]** Partial release of the AIGC-PanoIQA dataset; the full dataset and the source code will be made publicly available following the publication of the paper!
 - **[2026.03]** The paper is currently under review.
 
 ## 📖 Introduction
